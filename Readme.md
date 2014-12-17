@@ -4,7 +4,7 @@ This is the basque translation for Zimbra 8.0.6GA developed by Irontec S.L.
 
 ## Installing
 
-Clone the proyect repository:
+Clone the project repository:
 
     $ git clone https://github.com/irontec/zimbra-basque-translation 
     $ cd zimbra-basque-translation
